@@ -1,0 +1,24 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 320px;
+  background-color: #111517;
+}
+
+
+.hellen {
+  color: #fdfefe;
+  font-size: 15px;
+  opacity: 0.42;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 37.5px;
+  letter-spacing: 0.55px;
+  margin: 0;
+  padding-top: 18px;
+  padding-bottom: 17px;
+}
